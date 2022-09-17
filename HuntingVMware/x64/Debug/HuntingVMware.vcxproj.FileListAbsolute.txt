@@ -1,1 +1,0 @@
-C:\Users\saaad\Desktop\My Mal Dev\11 - Anti Dynamic Analysis & Sandboxes\3 - Hunting for VMware\HuntingVMware\x64\Debug\HuntingVMware.exe
